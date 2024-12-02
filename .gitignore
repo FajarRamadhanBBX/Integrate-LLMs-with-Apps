@@ -1,0 +1,4 @@
+.venv
+env
+index.py
+TestLLM.ipynb
